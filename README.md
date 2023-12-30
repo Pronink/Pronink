@@ -39,6 +39,7 @@ Although I have always worked in both front and backend, my main role has always
 <h4>Other experiments:</h4>
 
   - 🚀 [Road adventure](https://github.com/Pronink/roadAdventure) ❤️ Unity Demo game
+  - 🧪 [KsiK front](https://github.com/Pronink/feKsiK) and [backend](https://github.com/Pronink/beKsiK) Multi-User Home Task Manager
   - 🧪 [Phone dialing experiment](https://github.com/Pronink/phone-dialing-react) Old phone dialing emulator
   - 🧪 [Gnome 40 concept workspaces](https://github.com/Pronink/gnome40-workspaces-concept?tab=readme-ov-file) DE concept
 
