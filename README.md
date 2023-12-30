@@ -28,6 +28,7 @@ Although I have always worked in both front and backend, my main role has always
   - 🚀 [MadeBy](https://github.com/Pronink/madeBy) Historic tools
   - 🚀 [VegansWay](https://github.com/Pronink/vegansWay) ❤️ Vegan alternatives
   - 🧪 [Socialcraft](https://github.com/Pronink/socialcraft_plugin) Twitch and youtube chat integration
+  - 🧪 [Clancraft](https://github.com/Pronink/clancraft) Full custom server
   - 🚀 [Realistic minecart wind effect](https://github.com/Pronink/realistic-minecart-wind-effect) ❤️ Sound cart improvements
   - 👨‍💻 [Copper lock](https://github.com/Pronink/copper-lock) ❤️ Chest protection with timeout
 
