@@ -19,7 +19,7 @@ Although I have always worked in both front and backend, my main role has always
 
 <h4>One-off jobs:</h4>
 
-  - 🚀 [Obs. contra la LGTBfobia](https://play.google.com/store/apps/details?id=org.arcopoli.observatoriomadrileo&hl=es&gl=US) Native Android app
+  - 🚀 [Obs. contra la LGTBfobia](https://pronink.github.io/portfolio-om/) Native Android app (only video available)
   - 🚀 [Grupo Asturgram](https://pronink.github.io/portfolio-ga/) Landing web (only screenshots, as the page no longer exists)
 
 <h4>Minecraft plugin developer using Java with Spigot/Bukkit:</h4>
