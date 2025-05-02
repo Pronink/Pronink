@@ -3,19 +3,19 @@
 </h1>
 
 <h3 align=center>
-  I am a web applications and minecraft plugin developer and Linux user
+  I am a web application developer, Minecraft plugin developer, and Linux enthusiast
 </h3>
 
 <h4>Main job:</h4>
 
   - 👨‍💻 Frontend developer utilizing Javascript/Typescript and React with a good sense of CSS styles ❤️
 
-<h4>Older jobs:</h4>
-
-Although I have always worked in both front and backend, my main role has always been in the front
+Older jobs:
 
   - Cordova/PhoneGap, Handlebars and React developer for some web platforms
-  - Native and jQuery based web applications developer replacing old ASP.net codebase
+  - Native and jQuery based web applications developer
+
+Primarily a front-end developer, with full-stack experience
 
 <h4>One-off jobs:</h4>
 
@@ -24,13 +24,18 @@ Although I have always worked in both front and backend, my main role has always
 
 <h4>Minecraft plugin developer using Java with Spigot/Bukkit:</h4>
 
-  - 🚀 [UUID renamer](https://github.com/Pronink/uuidRenamer) Player migration tool
-  - 🚀 [MadeBy](https://github.com/Pronink/madeBy) Historic tools
-  - 🚀 [VegansWay](https://github.com/Pronink/vegansWay) ❤️ Vegan alternatives
-  - 🧪 [Socialcraft](https://github.com/Pronink/socialcraft_plugin) Twitch and youtube chat integration
-  - 🧪 [Clancraft](https://github.com/Pronink/clancraft) Full custom server
   - 🚀 [Realistic minecart wind effect](https://github.com/Pronink/realistic-minecart-wind-effect) ❤️ Sound cart improvements
+  - 🚀 [VegansWay](https://github.com/Pronink/vegansWay) ❤️ Vegan alternatives
+  - 🚀 [MadeBy](https://github.com/Pronink/madeBy) Historic tools
+  - 🚀 [UUID renamer](https://github.com/Pronink/uuidRenamer) Player migration tool
   - 🧪 [Copper lock](https://github.com/Pronink/copper-lock) ❤️ Chest protection with timeout
+  - 🧪 [Socialcraft](https://github.com/Pronink/socialcraft_plugin) Twitch and youtube chat integration
+  - 🧪 [Clancraft](https://github.com/Pronink/clancraft) Full custom server (private)
+
+<h4>Unity, Blender and Gimp creations:</h4>
+
+  - 🚀 [Jak 2 Crew bar](https://github.com/Pronink/jak-2-bar-crew-vrchat) ❤️ Unity map game for VRChat
+  - 🚀 [Road adventure](https://github.com/Pronink/roadAdventure) ❤️ Unity Demo game
 
 <h4>Contributions:</h4>
 
@@ -39,10 +44,8 @@ Although I have always worked in both front and backend, my main role has always
 
 <h4>Other experiments:</h4>
 
-  - 🚀 [Road adventure](https://github.com/Pronink/roadAdventure) ❤️ Unity Demo game
-  - 🚀 [Jak 2 Crew bar](https://github.com/Pronink/jak-2-bar-crew-vrchat) ❤️ Unity map game for VRChat
-  - 🧪 [KsiK front](https://github.com/Pronink/feKsiK) and [backend](https://github.com/Pronink/beKsiK) Multi-User Home Task Manager
   - 🧪 [Phone dialing experiment](https://github.com/Pronink/phone-dialing-react) Old phone dialing emulator
+  - 🧪 [KsiK front](https://github.com/Pronink/feKsiK) and [backend](https://github.com/Pronink/beKsiK) Multi-User Home Task Manager
   - 🧪 [Gnome 40 concept workspaces](https://github.com/Pronink/gnome40-workspaces-concept?tab=readme-ov-file) DE concept
 
 <h4>Table of meanings:</h4>
@@ -52,4 +55,4 @@ Although I have always worked in both front and backend, my main role has always
 | 👨‍💻      | Active development       |
 | 🚀      | Finished project         |
 | 🧪      | Unfinished / experiment  |
-| ❤️       | Featured                 |
+| ❤️      | Featured                 |
