@@ -32,6 +32,10 @@ Primarily a front-end developer, with full-stack experience
   - 🧪 [Socialcraft](https://github.com/Pronink/socialcraft_plugin) Twitch and youtube chat integration
   - 🧪 [Clancraft](https://github.com/Pronink/clancraft) Full custom server (private)
 
+<h4>Graph utilities:</h4>
+
+  - 🚀 [Mermaid paste](https://github.com/Pronink/mermaid-paste) ❤️ Share and preview mermaid graphs
+
 <h4>Unity, Blender and Gimp creations:</h4>
 
   - 🚀 [Jak 2 Crew bar](https://github.com/Pronink/jak-2-bar-crew-vrchat) ❤️ Unity map game for VRChat
